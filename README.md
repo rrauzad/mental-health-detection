@@ -1,17 +1,7 @@
 # Mental Health Detection from Social Media Posts
-### **Team MARS** | CSS 324: Introduction to Machine Learning
+### CSS 324: Introduction to Machine Learning
 **Instructor:** Zhaniya Medeuova  
 **Date:** May 4, 2026
-
----
-
-## 👥 Team Members
-* **230183088** — Sandygaliyev Ramazan
-* **230183099** — Batyrova Makhabbat
-* **230183029** — Abildayeva Merey
-* **230183072** — Aidaraly Nuraiym
-* **230101080** — Ramazanova Rauza
-
 ---
 
 ## 🎯 Project Overview
