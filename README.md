@@ -2,6 +2,8 @@
 ### CSS 324: Introduction to Machine Learning
 **Instructor:** Zhaniya Medeuova  
 **Date:** May 4, 2026 
+
+
 **Team MARS:** Rauza Ramazanova, Makhabbat Batyrova, Merey Abildayeva, Nuraiym Aidaraly, Ramazan Sandygaliyev
 ---
 
